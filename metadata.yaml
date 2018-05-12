@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
     - http://fr.wikipedia.org/wiki/Jules_Lemaitre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23508#Les-Contemporains-7-me-S-rie--13--tudes-et-Portraits-Litt-raires
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-11-16'
 gutenberg_type: Text
